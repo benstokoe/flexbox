@@ -1,0 +1,22 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benstokoe/flexbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benstokoe/flexbox/issues"
+  },
+  "homepage": "https://github.com/benstokoe/flexbox#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.0.1"
+  }
+}
